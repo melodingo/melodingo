@@ -1,4 +1,4 @@
-![.]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/melodingo/melodingo/blob/main/Eighty%20Six.gif))
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/melodingo/melodingo/blob/main/Eighty%20Six.gif))
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=30&duration=6000&pause=1000&color=BDE9F7&background=FFFFFF00&vCenter=true&random=false&width=1000&height=100&lines=Hello%2C+I'm+%40melodingo!%F0%9F%91%8B;Studying%3A+IT+specialist+application+development)](https://git.io/typing-svg)
 ## About Me
 
