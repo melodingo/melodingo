@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=#Hello,+I'm+@melodingo!+👋;#Studying+IT+specialist+application+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=#+Hello,+I'm+@melodingo!+👋;#+Studying+IT+specialist+application+development)](https://git.io/typing-svg)
 
 ## About Me
 
