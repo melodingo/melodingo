@@ -13,7 +13,8 @@
 
 - Programming Languages: (HTML), CSS, Python, Batch, Java
 - Frameworks & Libraries: [Nothig yet]
-- Tools & Software: Powerpoint, Excel, Word, Unity, multiple Adobe Products, Oracle VM, Visual Studio Code, Vmware Workstation pro, My Sql, MongoDB
+- Tools & Software: Powerpoint, Excel, Word, Unity, multiple Adobe Products, Oracle VM, Visual Studio Code, Vmware Workstation pro,
+  My Sql, MongoDB
 
 ## Connect with Me
 
