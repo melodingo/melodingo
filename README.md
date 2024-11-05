@@ -18,7 +18,7 @@
 
 ## Connect with Me
 
-- Personal Website: [Wip]
+- Personal Website: https://melodingo.github.io.
 
 ## GitHub Stats
 
