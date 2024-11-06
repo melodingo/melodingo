@@ -23,6 +23,7 @@
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=melodingo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melodingo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Top Languages
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melodingo&layout=compact&theme=radical)
