@@ -1,16 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=30&duration=6000&pause=1000&color=BDE9F7&background=FFFFFF00&vCenter=true&random=false&width=1000&height=100&lines=Hello%2C+I'm+%40melodingo!%F0%9F%91%8B;Studying%3A+IT+specialist+application+development)](https://git.io/typing-svg)
 ![](https://github.com/melodingo/melodingo/blob/main/Eighty%20Six.gif)
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <img src="https://komarev.com/ghpvc/?username=melodingo&style=flat-square&color=blue" alt=""/>
 
 ## About Me
