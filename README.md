@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🌱 I'm Currenly a IMS Student.
+- 🌱 I'm Currenly a IMS (Informatikmittelschule) Student.
 - 💼 Currently working on my E-portfolio
 - 📚 I'm passionate about Programming, Calistenics, Volleyball, Gaming, Rubiks Cubes.
 - 🎓 Graduated from [Currently in School].
