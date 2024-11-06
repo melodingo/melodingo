@@ -22,8 +22,8 @@
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=melodingo&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=melodingo&show_icons=true&theme=tokyonight)
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melodingo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melodingo&layout=compact&theme=tokyonight)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=15&duration=6000&pause=1000&color=BDE9F7&background=FFFFFF00&vCenter=true&random=false&width=1000&height=100&lines=touch+some+grass)](https://git.io/typing-svg)
