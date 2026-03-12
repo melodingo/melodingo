@@ -11,7 +11,7 @@
 - 💼 Currently working on my E-portfolio
 - 📚 I'm passionate about Programming, Calistenics, Volleyball, Gaming, Rubiks Cubes.
 - 🎓 Graduated from [Currently in School].
-- 💻 You can find more about me on https://melodingo.github.io.
+- 💻 You can find more about me on https://melodingo.github.io. (Currently getting Updated)
 
 ## Technologies & Tools
 
