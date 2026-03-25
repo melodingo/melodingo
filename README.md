@@ -9,7 +9,7 @@
 
 - 🌱 I'm Currenly a IMS (Informatikmittelschule) Student.
 - 💼 Currently working on my E-portfolio
-- 📚 I'm passionate about Programming, Calistenics, Volleyball, Gaming, Rubiks Cubes.
+- 📚 I'm passionate about Programming, Calistenics, Volleyball, Gaming, Motorcycles.
 - 🎓 Graduated from [Currently in School].
 - 💻 You can find more about me on https://melodingo.github.io. (Currently getting Updated)
 
