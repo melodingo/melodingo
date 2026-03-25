@@ -15,10 +15,10 @@
 
 ## Technologies & Tools
 
-- Programming Languages: (HTML), CSS, Python, Batch, Java, php, Sql
+- Programming Languages: (HTML), CSS, Python, Batch, Java, php, Sql, C#, JavaScript, 
 - Frameworks & Libraries: [Nothig yet]
 - Tools & Software: Powerpoint, Excel, Word, Unity, multiple Adobe Products, Oracle VM, Visual Studio Code, Vmware Workstation pro,
-  My Sql, MongoDB
+  My Sql, MongoDB, Docker
 
 ## Connect with Me
 
