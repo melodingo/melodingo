@@ -8,10 +8,10 @@
 ## About Me
 
 - 🌱 I'm Currenly a IMS (Informatikmittelschule) Student.
-- 💼 Currently working on my E-portfolio
+- 💼 Currently working on some Machine learning projects.
 - 📚 I'm passionate about Programming, Calistenics, Volleyball, Gaming, Motorcycles.
 - 🎓 Graduated from [Currently in School].
-- 💻 You can find more about me on https://melodingo.github.io. (Currently getting Updated)
+- 💻 You can find more about me on https://melodingo.github.io.
 
 ## Technologies & Tools
 
